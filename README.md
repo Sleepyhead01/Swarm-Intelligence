@@ -1,9 +1,6 @@
-![1](/Swarm Gif/1final.gif)
-![2](Swarm Gif/2final.gif)
-![3](Swarm Gif/3final.gif)
-![4](Swarm Gif/4final.gif)
-![5](Swarm Gif/5final.gif)
-![6](Swarm Gif/6final.gif)
+
+![1final](https://user-images.githubusercontent.com/69421538/134138631-8ae08c02-24d6-43b3-a20d-a3adb746f231.gif)
+
 ##This is my final submission for Swarm Robotics Software Team Selections
 
 ## How to Run
