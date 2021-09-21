@@ -1,10 +1,12 @@
-<img src="https://user-images.githubusercontent.com/69421538/134138631-8ae08c02-24d6-43b3-a20d-a3adb746f231.gif" alt="1" width="450"/> <img src="https://user-images.githubusercontent.com/69421538/134139971-26c65d69-d6cc-4393-b508-6af0a093e73b.gif" alt="drawing" width="450"/>
-
-<img src="https://user-images.githubusercontent.com/69421538/134140000-4ffb426b-3d00-445f-9236-31addc73bf54.gif" alt="drawing" width="450"/> <img src="https://user-images.githubusercontent.com/69421538/134140042-ea83b411-319c-4c60-bb06-aa776d1d243e.gif" alt="drawing" width="450"/>
-
-<img src="https://user-images.githubusercontent.com/69421538/134140193-c1c7ab87-8007-4592-b88f-03b2606a667b.gif" alt="drawing" width="450"/> <img src="https://user-images.githubusercontent.com/69421538/134140065-5d4edbe9-d886-4bbc-b6e7-ce32a201afbe.gif" alt="drawing" width="450"/>
-
 ## This is my final submission for Swarm Robotics Software Team Selections
+
+<img src="https://user-images.githubusercontent.com/69421538/134138631-8ae08c02-24d6-43b3-a20d-a3adb746f231.gif" alt="1" width="400"/> <img src="https://user-images.githubusercontent.com/69421538/134139971-26c65d69-d6cc-4393-b508-6af0a093e73b.gif" alt="drawing" width="400"/>
+
+<img src="https://user-images.githubusercontent.com/69421538/134140000-4ffb426b-3d00-445f-9236-31addc73bf54.gif" alt="drawing" width="400"/> <img src="https://user-images.githubusercontent.com/69421538/134140042-ea83b411-319c-4c60-bb06-aa776d1d243e.gif" alt="drawing" width="400"/>
+
+<img src="https://user-images.githubusercontent.com/69421538/134140193-c1c7ab87-8007-4592-b88f-03b2606a667b.gif" alt="drawing" width="400"/> <img src="https://user-images.githubusercontent.com/69421538/134140065-5d4edbe9-d886-4bbc-b6e7-ce32a201afbe.gif" alt="drawing" width="400"/>
+
+
 
 ## Problem Description
 The problem is based on the world of zooids, where you are their master. The world of zooid is a grid of dimension 200 x 200. As in any real world, there are obstacles occupying some portions of the grid. The obstacles are strictly rectangular in shape. Here is a sample image    
