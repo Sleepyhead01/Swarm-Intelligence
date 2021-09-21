@@ -1,0 +1,16 @@
+<html>
+	<body>
+		<br>
+		<br>
+		<br>
+		<center><img src="http:/localhost:5000/map" id = "image" border=2 height = 600 width = 600></center>
+
+		<script type="text/javascript">
+			setInterval(function() {
+			    var elem = document.getElementById("image");
+			    elem.src = 'http:/localhost:5000/map?stamp=' + Date.now();
+			}, 1000);
+
+		</script>
+	</body>
+</html>
