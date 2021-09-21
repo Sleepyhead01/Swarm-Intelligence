@@ -1,23 +1,10 @@
-# Swarm Robotics Software Team Selections
-## Pre-requisites
-* Please install Ubuntu 18.04 or above on your laptop/WSL (Cannot verify the sanity of the codes for Windows machine)
-* If you are on Windows 10 and you have Ubuntu 18.04 neither as Dual-Boot nor in WSL (Windows Subsystem for Linux), then you may install WSL from this [link](https://docs.microsoft.com/en-us/windows/wsl/install-win10)  
-* Ensure you have Python3 and pip3 installed
-* Ensure you have basic understanding of Python
-* Please download/clone the latest version of this repository. If any bug is discovered, please communicate the deatils of the bug in Teams group. For the most updated codes, use `git pull origin`, once you have cloned the repository.
-
-## Resources
-* [Git and Github tutorial](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
-* [A* path planning algorithm](https://www.hackerearth.com/practice/notes/a-search-algorithm/)
-* [Dijkstra path planning](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
-* [Obstacle Avoidance and Path Retracing](https://2019.robotix.in/tutorial/pathplanning/obstacleavoidance/)
-* [RRT Path Planning](https://2019.robotix.in/tutorial/pathplanning/rrtplanner/)
-
-## Submission Guidelines
-
-You need to submit only `code.py` file over the Teams by deadline notified for the task.
-
-There will be meetings held for doubts and help, on a per need basis.
+![](Swarm\ Gif/1final.gif)
+![](Swarm\ Gif/2final.gif)
+![](Swarm\ Gif/3final.gif)
+![](Swarm\ Gif/4final.gif)
+![](Swarm\ Gif/5final.gif)
+![](Swarm\ Gif/6final.gif)
+##This is my final submission for Swarm Robotics Software Team Selections
 
 ## How to Run
 
